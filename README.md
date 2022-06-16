@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1961768512&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1961768512&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1961768512&show_icons=true&theme=dracula)
 
 <!--
 **1961768512/1961768512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
