@@ -1,9 +1,6 @@
 ### Hi there 👋
 我是张先森
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1961768512&hide=contribs,prs)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1961768512&show_icons=true&theme=synthwave)
 
 <!--
